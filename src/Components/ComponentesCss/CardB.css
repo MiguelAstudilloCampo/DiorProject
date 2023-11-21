@@ -1,0 +1,46 @@
+.img{
+    width: 80%;
+    height: 60vh;
+    object-fit: cover;
+}
+
+.ii{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.bb{
+    padding: 0% 0% 0% 10%;
+    display: flex;
+    flex-direction: column;
+    gap: 0.5rem;
+}
+
+.bbb{
+    width: 15%;
+    background-color: transparent;
+    height: 4vh;
+    border: solid 0.5px black;
+    border-radius: 15vh;
+    font-family: Century Gothic Std,arial,sans-serif;
+    font-size: 80%;
+}
+
+.bbb:hover{
+    color: white;
+    background-color: black;
+}
+
+.mm{
+    font-family: Century Gothic Std,arial,sans-serif;;
+    color: rgb(179, 169, 169);
+}
+
+.añ{
+    display: flex;
+    flex-direction: column;
+    gap: 2rem;
+}
+

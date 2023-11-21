@@ -1,0 +1,51 @@
+.izquierda{
+    background-image: url(../PagesImg/1.webp);
+    background-size: cover;
+    height: 90.6vh;
+    width: 50%;
+    text-align: center;
+    align-items: center;
+}
+
+/* .izquierda:hover {
+    transform: translateX(20px);
+} */
+
+.Mayor{
+    width: 100%;
+}
+
+.conti{
+    display: flex;
+    padding: 39% 0% 0% 0%;
+    justify-content: space-around;
+}
+
+.derecha{
+    background-image: url(../PagesImg/2.webp);
+    background-size: cover;
+    width: 50%;
+    margin-top: -7%;
+    text-align: center;
+    align-items: center;
+
+}
+
+.contd{
+    display: flex;
+    padding: 53% 0% 0% 0%;
+    justify-content: space-around;
+}
+
+.containerl{
+    display: flex;
+    width: 100%;
+    padding: 4.8% 0% 0% 0%;
+    /* justify-content: space-around; */
+}
+
+.options{
+    font-size: 180%;
+    color: #fff;
+}
+

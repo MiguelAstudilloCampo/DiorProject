@@ -1,0 +1,16 @@
+.Principal{
+    padding: 3%;
+    width: 50%;
+    /* justify-content: center;
+    align-items: center; */
+}
+.rrr{
+    color: white;
+}
+.boton{
+    height: 20%;
+    background-color: rgb(67, 67, 141);
+    border-style: none;
+    padding: 2% 1.2% 0% 1.2%;
+    border-radius: 10px;
+}

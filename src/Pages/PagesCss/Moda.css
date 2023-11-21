@@ -1,0 +1,58 @@
+.Prin{
+    padding: 5.5% 0% 0% 0%;
+    justify-content: center;
+    align-items: center;
+}
+
+.FondoM{
+    background-image: url(../PagesImg//5.png);
+    height: 40vh;
+    background-size: cover;
+
+}
+.Mostrar{
+    display: flex;
+    flex-direction: column;
+    gap: 2rem;
+    justify-content: center;
+    align-items: center;
+    padding: 7% 0% 0% 0%;
+}
+
+.Abajo{
+    padding: 4% 4% 4% 35%;
+    width: 70%;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+.opp{
+    font-size: 120%;
+    color:  rgb(52, 42, 42);
+}
+
+.op{
+    color: white;
+}
+
+.Productos {
+    padding: 0% 2% 0% 2%;
+    
+}
+
+.ProdEs{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 5rem;
+    padding: 0% 0% 0% 0%;
+}
+
+a{
+    text-decoration: none;
+}
+
+.Parrafito{
+    font-size: 110%;
+}

@@ -1,0 +1,21 @@
+.PP{
+    display: flex;
+    padding: 5.5% 0% 2% 0%;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    border: none;
+    border-bottom: 1px solid black;
+    outline: 0px;
+}
+
+.XX{
+    display: flex;
+    flex-direction: column;
+    gap: 2rem;
+}
+
+.ooo{
+
+
+}

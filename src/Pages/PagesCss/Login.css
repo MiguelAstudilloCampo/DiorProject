@@ -1,0 +1,14 @@
+/* .Login{
+    margin-top: 10%;
+} */
+
+.Login{
+    background-image: url(../PagesImg/4.jpg);
+padding: 5% 0% 0% 35%;
+height: 100vh;
+justify-content: center ;
+align-items: center;
+}
+.LL{
+width: 100%;
+}
